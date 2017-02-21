@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_LogOut" value="name:UserID;datatype:int,name:Fname;datatype:string,name:Lname;datatype:string,name:Email;datatype:string,name:Username;datatype:string,name:Password;datatype:string,name:Timestamp;datatype:timestamp,name:UserLevel;datatype:int" />
+</info>
